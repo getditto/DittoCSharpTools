@@ -1,4 +1,4 @@
-namespace DittoTools;
+namespace DittoTools_Heartbeat;
 
 public class Constants {
     public const string collectionName = "dittotools_devices";

@@ -1,4 +1,4 @@
-namespace DittoTools;
+namespace DittoTools_Heartbeat;
 public static class ISO8601DateFormatter
 {
     public static string GetISODate()
