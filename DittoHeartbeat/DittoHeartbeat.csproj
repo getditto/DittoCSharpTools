@@ -6,8 +6,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Ditto" Version="4.7.1" />
-  </ItemGroup>
+  <Import Project="..\CommonPackages.props" />
 
 </Project>

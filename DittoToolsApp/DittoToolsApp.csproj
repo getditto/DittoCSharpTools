@@ -4,9 +4,7 @@
     <ProjectReference Include="..\DittoHeartbeat\DittoHeartbeat.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Ditto" Version="4.7.1" />
-  </ItemGroup>
+  <Import Project="..\CommonPackages.props" />
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
