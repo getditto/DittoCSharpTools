@@ -9,7 +9,7 @@ namespace DittoToolsApp
 
         public static void Main(params string[] args)
         {
-            ditto = new Ditto(identity: DittoIdentity.OnlinePlayground("<App_ID>", "TOKEN"));
+            ditto = new Ditto(identity: DittoIdentity.OnlinePlayground("<App_ID>", "<TOKEN>"));
 
             try 
             {
