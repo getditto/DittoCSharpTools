@@ -50,7 +50,6 @@ namespace DittoTools_Heartbeat {
 
     public class DittoHeartbeat
     {
-        private int count = 0;
         private Timer? timer;
         private DittoSyncSubscription? hbSubscription;
 
@@ -77,7 +76,7 @@ namespace DittoTools_Heartbeat {
 
             AddToCollection(info, config, ditto);
 
-            // Invoke the callback with the count variable
+            // Invoke the callback with the info variable
             callback?.Invoke(info);
 
             // Set up a timer to run the function at the specified interval
