@@ -168,7 +168,7 @@ namespace DittoTools_Heartbeat {
                 { "presenceSnapshotDirectlyConnectedPeersCount", info.PresenceSnapshotDirectlyConnectedPeersCount },
                 { "lastUpdated", info.LastUpdated },
                 { "presenceSnapshotDirectlyConnectedPeers", info.PresenceSnapshotDirectlyConnectedPeers },
-                { "metaData", metaData },
+                { "metadata", metaData },
                 { "sdk", info.Sdk },
                 { "_schema", info.Schema },
                 { "peerKey", info.PeerKey }
