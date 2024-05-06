@@ -49,6 +49,13 @@ Generated\ Files/
 TestResult.xml
 nunit-*.xml
 
+# General
+.DS_Store
+
+# Ditto directory
+*/ditto/
+
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
