@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DittoHeartbeat", "DittoHeartbeat\DittoHeartbeat.csproj", "{ADD82651-34C2-4CDF-B2C6-173169FE7D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DittoToolsApp", "DittoToolsApp\DittoToolsApp.csproj", "{1F063440-976D-4672-867D-FC93BCBECCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD82651-34C2-4CDF-B2C6-173169FE7D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD82651-34C2-4CDF-B2C6-173169FE7D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD82651-34C2-4CDF-B2C6-173169FE7D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD82651-34C2-4CDF-B2C6-173169FE7D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F063440-976D-4672-867D-FC93BCBECCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F063440-976D-4672-867D-FC93BCBECCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F063440-976D-4672-867D-FC93BCBECCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F063440-976D-4672-867D-FC93BCBECCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

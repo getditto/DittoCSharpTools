@@ -1,0 +1,5 @@
+<Project>
+  <ItemGroup>
+    <PackageReference Include="Ditto" Version="[4.7.0,)" />
+  </ItemGroup>
+</Project>
